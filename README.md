@@ -1,3 +1,1 @@
 # linkShortenerWeb
-# linkShortenerWeb
-# linkShortenApp
